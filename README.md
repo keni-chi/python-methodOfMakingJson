@@ -4,7 +4,7 @@
 
 -For loop
 
--Data frame of pandas
+-DataFrame of pandas
 
 ## Prepared data(tpl.txt)
 -10 columns
@@ -18,5 +18,7 @@ elapsedTimeFor:0.0310001373291[sec]
 
 ## Execution environment
 -Windows 7 Professional
+
 -Memory 4GB
+
 -Type of system 32bit operating system
